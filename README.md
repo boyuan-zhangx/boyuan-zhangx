@@ -32,7 +32,7 @@ Current interests:
 
 ### LTNWM: A Plug-and-Play Long-Term Memory Substrate for Navigation World Models
 *In preparation for IEEE ICRA 2027*
-
+First-authored work
 Research direction focused on improving long-horizon consistency and spatial reasoning for Navigation World Models.
 
 Topics:
@@ -44,7 +44,7 @@ Topics:
 ### Energy-Aware NECO for Single-Pass Pixel-wise Out-of-Distribution Detection in Semantic Segmentation
 *Accepted at LoWi Workshop, IEEE ICRA 2026*
 
-Co-authored work on energy-aware out-of-distribution detection for semantic segmentation systems.
+First-authored work on energy-aware out-of-distribution detection for semantic segmentation systems.
 
 ---
 
